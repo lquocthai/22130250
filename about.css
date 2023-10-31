@@ -63,7 +63,10 @@ html {
     padding: 20px;
     font-weight: bolder;
 }
-
+.infor-1 .contact-infor > a:hover, 
+.infor-1 .intro > a:hover {
+    cursor: auto;
+}
 
 
 
